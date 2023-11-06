@@ -1,2 +1,2 @@
-wew = "ererb"
-one = 1235
+wew = "erRRTR"
+one = 12
